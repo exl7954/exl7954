@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align=center>Hi there 👋</h2>
 
 <!--
 **exl7954/exl7954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I am a junior studying __Computer Science @ New York University__
+- 💗 I love learning new things and working on side projects in my free time
