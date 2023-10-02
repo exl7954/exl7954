@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I am a junior studying __Computer Science @ New York University__
+- 🎓 I am a senior studying __Computer Science @ New York University__
 - 💗 I love learning new things and working on side projects in my free time
